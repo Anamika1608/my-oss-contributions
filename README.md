@@ -1,6 +1,12 @@
+## [Consul Democracy](https://github.com/consuldemocracy/consuldemocracy) Contributions
+
+| S No. | Pull Request Title | PR Number | Status |
+|-------|--------------------|-----------|--------|
+| 1     | [Add support for SAML authentication](https://github.com/consuldemocracy/consuldemocracy/pull/6010) | #6010 | Merged |
+| 2     | [Add support for OIDC authentication](https://github.com/consuldemocracy/consuldemocracy/pull/6046) | #6046 | Open |
 
 
-## My [Cilium](https://github.com/cilium/cilium.io) Contributions
+## [Cilium](https://github.com/cilium/cilium.io) Contributions
 
 | S No.  | Pull Request Title                                                       | PR Number | Status |
 |----|---------------------------------------------------------------------------|-----------|--------|
