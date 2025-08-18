@@ -21,4 +21,4 @@
 | 9  | [feat: add dark theme to telling-story form page](https://github.com/cilium/cilium.io/pull/722) | #722      | Merged |
 | 10 | [feat: implement debounced loader animation on blog search](https://github.com/cilium/cilium.io/pull/737) | #737      | Merged   |
 | 11 | [fix: kodekloud logo overflow on enterprise page in mobile view](https://github.com/cilium/cilium.io/pull/738) | #738     | Merged   |
-| 11 | [fix: image flicker on reloading newsletter page](https://github.com/cilium/cilium.io/pull/745) | #745     | Merged   |
+| 12 | [fix: image flicker on reloading newsletter page](https://github.com/cilium/cilium.io/pull/745) | #745     | Merged   |
