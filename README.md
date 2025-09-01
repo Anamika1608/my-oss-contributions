@@ -3,7 +3,7 @@
 | S No. | Pull Request Title | PR Number | Status |
 |-------|--------------------|-----------|--------|
 | 1     | [Add support for SAML authentication](https://github.com/consuldemocracy/consuldemocracy/pull/6010) | #6010 | Merged |
-| 2     | [Add support for OIDC authentication](https://github.com/consuldemocracy/consuldemocracy/pull/6046) | #6046 | Open |
+| 2     | [Add support for OIDC authentication](https://github.com/consuldemocracy/consuldemocracy/pull/6046) | #6046 | Merged |
 | 3     | [Enhance SAML secrets](https://github.com/consuldemocracy/consuldemocracy/pull/6069) | #6069 | Open |
 
 
@@ -23,4 +23,4 @@
 | 10 | [feat: implement debounced loader animation on blog search](https://github.com/cilium/cilium.io/pull/737) | #737      | Merged   |
 | 11 | [fix: kodekloud logo overflow on enterprise page in mobile view](https://github.com/cilium/cilium.io/pull/738) | #738     | Merged   |
 | 12 | [fix: image flicker on reloading newsletter page](https://github.com/cilium/cilium.io/pull/745) | #745     | Merged   |
-| 13 | [fix: brand hero image and top-banner text](https://github.com/cilium/cilium.io/pull/755) | #755     | Open   |
+| 13 | [fix: brand hero image and top-banner text](https://github.com/cilium/cilium.io/pull/755) | #755     | Merged   |
