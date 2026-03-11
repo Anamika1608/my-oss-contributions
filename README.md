@@ -24,3 +24,12 @@
 | 11 | [fix: kodekloud logo overflow on enterprise page in mobile view](https://github.com/cilium/cilium.io/pull/738) | #738     | Merged   |
 | 12 | [fix: image flicker on reloading newsletter page](https://github.com/cilium/cilium.io/pull/745) | #745     | Merged   |
 | 13 | [fix: brand hero image and top-banner text](https://github.com/cilium/cilium.io/pull/755) | #755     | Merged   |
+
+
+## [P4Lang](https://github.com/p4lang) Contributions
+
+| S No. | Pull Request Title | PR Number | Status |
+|-------|--------------------|-----------|--------|
+| 1     | [Add binary distribution (bindist) packaging for Ubuntu 24.04 x86_64](https://github.com/p4lang/tutorials/pull/727) | #727 | Open |
+| 2     | [Add automated monthly release workflows](https://github.com/p4lang/behavioral-model/pull/1353) | #1353 | Open |
+| 3     | [Add automated monthly release workflows](https://github.com/p4lang/ptf/pull/233) | #233 | Open |
