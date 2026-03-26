@@ -31,5 +31,12 @@
 | S No. | Pull Request Title | PR Number | Status |
 |-------|--------------------|-----------|--------|
 | 1     | [Add binary distribution (bindist) packaging for Ubuntu 24.04 x86_64](https://github.com/p4lang/tutorials/pull/727) | #727 | Open |
-| 2     | [Add automated monthly release workflows](https://github.com/p4lang/behavioral-model/pull/1353) | #1353 | Open |
-| 3     | [Add automated monthly release workflows](https://github.com/p4lang/ptf/pull/233) | #233 | Open |
+| 2     | [Add automated monthly release workflows](https://github.com/p4lang/behavioral-model/pull/1353) | #1353 | Merged |
+| 3     | [Add automated monthly release workflows](https://github.com/p4lang/ptf/pull/233) | #233 | Merged |
+
+## [Dataframe](https://github.com/DataHaskell/dataframe) Contributions
+| S No. | Pull Request / Issue Title | PR/Issue Number | Status |
+|-------|---------------------------|-----------------|--------|
+| 1     | [fix joins for missing key columns](https://github.com/DataHaskell/dataframe/pull/187) | #187 | Merged |
+| 2     | [fix: alignment in iris tutorial introduction](https://github.com/DataHaskell/dataframe/pull/185) | #185 | Merged |
+| 3     | [[bug] left and right joins should be swapped](https://github.com/DataHaskell/dataframe/issues/163) | #163 | Closed |
