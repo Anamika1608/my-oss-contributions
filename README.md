@@ -39,3 +39,4 @@
 | 1     | [fix joins for missing key columns](https://github.com/DataHaskell/dataframe/pull/187) | #187 | Merged |
 | 2     | [fix: alignment in iris tutorial introduction](https://github.com/DataHaskell/dataframe/pull/185) | #185 | Merged |
 | 3     | [[bug] left and right joins should be swapped](https://github.com/DataHaskell/dataframe/issues/163) | #163 | Closed |
+| 4     | [Document and test safeColumns in ParquetReadOptions](https://github.com/DataHaskell/dataframe/pull/190) | #190 | Merged |
