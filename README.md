@@ -40,3 +40,4 @@
 | 2     | [fix: alignment in iris tutorial introduction](https://github.com/DataHaskell/dataframe/pull/185) | #185 | Merged |
 | 3     | [[bug] left and right joins should be swapped](https://github.com/DataHaskell/dataframe/issues/163) | #163 | Closed |
 | 4     | [Document and test safeColumns in ParquetReadOptions](https://github.com/DataHaskell/dataframe/pull/190) | #190 | Merged |
+| 5    | [feat: Add BROTLI page decompression support for Parquet reads](https://github.com/DataHaskell/dataframe/pull/195) | #195 | Open |
