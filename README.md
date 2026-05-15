@@ -4,7 +4,7 @@
 |-------|--------------------|-----------|--------|
 | 1     | [Add support for SAML authentication](https://github.com/consuldemocracy/consuldemocracy/pull/6010) | #6010 | Merged |
 | 2     | [Add support for OIDC authentication](https://github.com/consuldemocracy/consuldemocracy/pull/6046) | #6046 | Merged |
-| 3     | [Enhance SAML secrets](https://github.com/consuldemocracy/consuldemocracy/pull/6069) | #6069 | Open |
+| 3     | [Allow additional settings in SAML configuration](https://github.com/consuldemocracy/consuldemocracy/pull/6069) | #6069 | Merged |
 
 
 ## [Cilium](https://github.com/cilium/cilium.io) Contributions
