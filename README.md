@@ -2,9 +2,14 @@
 
 | S No. | Pull Request Title | PR Number | Status |
 |-------|--------------------|-----------|--------|
-| 1     | [fix(network): close tap device fd after creation](https://github.com/urunc-dev/urunc/pull/831) | #831 | Open |
-| 2     | [feat(monitors): expose a configurable control socket](https://github.com/urunc-dev/urunc/pull/841) | #841 | Open |
-| 3     | [feat(firecracker): launch with control socket instead of config file](https://github.com/urunc-dev/urunc/pull/809) | #809 | Open |
+| 1     | [fix(network): close tap device fd after creation](https://github.com/urunc-dev/urunc/pull/831) | #831 | Merged |
+| 2     | [feat(monitors): expose a configurable control socket for each monitor](https://github.com/urunc-dev/urunc/pull/850) | #850 | Approved |
+| 3     | [feat(firecracker): add an api boot mode over the control socket](https://github.com/urunc-dev/urunc/pull/809) | #809 | Open |
+| 4     | [feat(qemu): add an api boot mode over the QMP control socket](https://github.com/urunc-dev/urunc/pull/841) | #841 | Open |
+| 5     | [feat(cloud-hypervisor): expose a configurable REST API control socket](https://github.com/urunc-dev/urunc/pull/847) | #847 | Open |
+| 6     | [feat(monitors): graceful shutdown over the control socket](https://github.com/urunc-dev/urunc/pull/869) | #869 | Open |
+| 7     | [feat: react to guest shutdown events (graceful shutdown, guest side)](https://github.com/nubificus/urunit/pull/15) | #815 | Open |
+
 
 ## [Consul Democracy](https://github.com/consuldemocracy/consuldemocracy) Contributions
 
